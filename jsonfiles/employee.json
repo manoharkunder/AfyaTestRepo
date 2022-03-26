@@ -1,0 +1,722 @@
+[
+  {
+    "id": "123e4567-e89b-12d3-a456-426655440001",
+    "name": "Limited Access",
+    "discription": "Patient can only view chats",
+    "logo_url": "https://firebasestorage.googleapis.com/v0/b/afya-staging.appspot.com/o/permissions%2Flimited_access.png?alt=media&token=e75723dc-b391-4ca5-83f1-beddcc351a60",
+    "createdAt": null,
+    "updatedAt": null
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426655440002",
+    "name": "Full Access",
+    "discription": "Patient can submit chats",
+    "logo_url": "https://firebasestorage.googleapis.com/v0/b/afya-staging.appspot.com/o/permissions%2Ffull_access.png?alt=media&token=51889e91-8dd4-4481-97a0-d669648992b0",
+    "createdAt": null,
+    "updatedAt": null
+  },
+  {
+    "id": "123e4567-e89b-12d3-a456-426655440000",
+    "name": "Notification Only",
+    "discription": "Patient receives status updates",
+    "logo_url": "https://firebasestorage.googleapis.com/v0/b/afya-staging.appspot.com/o/permissions%2Fno_access.png?alt=media&token=324517b5-6650-4b80-8df4-babf75dbe615",
+    "createdAt": null,
+    "updatedAt": null
+  },
+  {
+    "id": "d4300160-0958-11eb-9e2f-776b4cab3f24",
+    "name": "ChatOnly",
+    "discription": "only chat allowed",
+    "logo_url": null,
+    "createdAt": "2020-10-08T11:24:28.662Z",
+    "updatedAt": "2020-10-08T11:24:28.662Z"
+  },
+  {
+    "id": "1f43b220-0e43-11eb-8e56-714440405965",
+    "name": "video Only",
+    "discription": "video only description",
+    "logo_url": null,
+    "createdAt": "2020-10-14T17:31:41.506Z",
+    "updatedAt": "2020-10-14T17:31:41.506Z"
+  },
+  {
+    "id": "c4f2a550-0ee8-11eb-8e56-714440405965",
+    "name": "Audio Only",
+    "discription": "Audio access",
+    "logo_url": null,
+    "createdAt": "2020-10-15T13:17:26.437Z",
+    "updatedAt": "2020-10-15T13:17:26.437Z"
+  },
+  {
+    "id": "d4c6b910-3dcf-11eb-a436-9fd90bc45979",
+    "name": "ParticipantPermission",
+    "discription": "permission Updated",
+    "logo_url": null,
+    "createdAt": "2020-12-14T05:47:20.225Z",
+    "updatedAt": "2020-12-14T05:47:20.225Z"
+  },
+  {
+    "id": "590c9a80-558d-11eb-8254-2ded8705c39e",
+    "name": "add participant",
+    "discription": "give access to the patient",
+    "logo_url": null,
+    "createdAt": "2021-01-13T10:51:53.768Z",
+    "updatedAt": "2021-01-13T10:51:53.768Z"
+  },
+  {
+    "id": "5308a910-5959-11eb-b127-fb0a454fad08",
+    "name": "aal",
+    "discription": "bbba",
+    "logo_url": null,
+    "createdAt": "2021-01-18T06:49:34.497Z",
+    "updatedAt": "2021-01-18T06:49:34.497Z"
+  },
+  {
+    "id": "2a33cac0-595d-11eb-a1b3-19b237d53f96",
+    "name": "aaa",
+    "discription": "a",
+    "logo_url": null,
+    "createdAt": "2021-01-18T07:17:03.982Z",
+    "updatedAt": "2021-01-18T07:17:03.982Z"
+  },
+  {
+    "id": "6ab2ba40-7d91-11eb-b302-b91260a1d736",
+    "name": "permission1",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-05T09:01:47.876Z",
+    "updatedAt": "2021-03-05T09:01:47.876Z"
+  },
+  {
+    "id": "87fb37d0-7d91-11eb-b302-b91260a1d736",
+    "name": "permission1",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-05T09:02:37.005Z",
+    "updatedAt": "2021-03-05T09:02:37.005Z"
+  },
+  {
+    "id": "dc3f7bd0-7d91-11eb-b302-b91260a1d736",
+    "name": "permisiontest",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-05T09:04:58.382Z",
+    "updatedAt": "2021-03-05T09:04:58.382Z"
+  },
+  {
+    "id": "de7c7380-7d91-11eb-b302-b91260a1d736",
+    "name": "permisiontest",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-05T09:05:02.136Z",
+    "updatedAt": "2021-03-05T09:05:02.136Z"
+  },
+  {
+    "id": "e1780040-7d91-11eb-b302-b91260a1d736",
+    "name": "permisiontest",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-05T09:05:07.140Z",
+    "updatedAt": "2021-03-05T09:05:07.140Z"
+  },
+  {
+    "id": "77b31070-7fc9-11eb-a86b-dd14a636085d",
+    "name": "permisiontest",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-08T04:48:03.832Z",
+    "updatedAt": "2021-03-08T04:48:03.832Z"
+  },
+  {
+    "id": "7aa32b80-7fc9-11eb-a86b-dd14a636085d",
+    "name": "permisiontest",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-08T04:48:08.760Z",
+    "updatedAt": "2021-03-08T04:48:08.760Z"
+  },
+  {
+    "id": "7e8d0fe0-7fc9-11eb-a86b-dd14a636085d",
+    "name": "permisiontest",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-08T04:48:15.326Z",
+    "updatedAt": "2021-03-08T04:48:15.326Z"
+  },
+  {
+    "id": "590c9dd0-7ffb-11eb-a86b-dd14a636085d",
+    "name": "Add audio",
+    "discription": "adding the audio",
+    "logo_url": null,
+    "createdAt": "2021-03-08T10:45:07.245Z",
+    "updatedAt": "2021-03-08T10:45:07.245Z"
+  },
+  {
+    "id": "b7737690-9154-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:37:40.602Z",
+    "updatedAt": "2021-03-30T12:37:40.602Z"
+  },
+  {
+    "id": "c3688760-9154-11eb-b162-55a783b195b3",
+    "name": "<script>alert(1)</script>",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:38:00.662Z",
+    "updatedAt": "2021-03-30T12:38:00.662Z"
+  },
+  {
+    "id": "c428ca20-9154-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "<script>alert(1)</script>",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:38:01.922Z",
+    "updatedAt": "2021-03-30T12:38:01.922Z"
+  },
+  {
+    "id": "1e4cf620-9155-11eb-b162-55a783b195b3",
+    "name": "%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:33.154Z",
+    "updatedAt": "2021-03-30T12:40:33.154Z"
+  },
+  {
+    "id": "1f3f1e50-9155-11eb-b162-55a783b195b3",
+    "name": "%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:34.741Z",
+    "updatedAt": "2021-03-30T12:40:34.741Z"
+  },
+  {
+    "id": "201ea8e0-9155-11eb-b162-55a783b195b3",
+    "name": "%0dCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:36.206Z",
+    "updatedAt": "2021-03-30T12:40:36.206Z"
+  },
+  {
+    "id": "21140560-9155-11eb-b162-55a783b195b3",
+    "name": "%23%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:37.814Z",
+    "updatedAt": "2021-03-30T12:40:37.814Z"
+  },
+  {
+    "id": "2212d7c0-9155-11eb-b162-55a783b195b3",
+    "name": "%23%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:39.484Z",
+    "updatedAt": "2021-03-30T12:40:39.484Z"
+  },
+  {
+    "id": "22eae840-9155-11eb-b162-55a783b195b3",
+    "name": "%23%0dCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:40.900Z",
+    "updatedAt": "2021-03-30T12:40:40.900Z"
+  },
+  {
+    "id": "23d659b0-9155-11eb-b162-55a783b195b3",
+    "name": "%25%30%61CRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:42.443Z",
+    "updatedAt": "2021-03-30T12:40:42.443Z"
+  },
+  {
+    "id": "24df3e30-9155-11eb-b162-55a783b195b3",
+    "name": "%25%30aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:44.179Z",
+    "updatedAt": "2021-03-30T12:40:44.179Z"
+  },
+  {
+    "id": "2600dad0-9155-11eb-b162-55a783b195b3",
+    "name": "%250aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:46.077Z",
+    "updatedAt": "2021-03-30T12:40:46.077Z"
+  },
+  {
+    "id": "26bcb0c0-9155-11eb-b162-55a783b195b3",
+    "name": "%25250aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:47.308Z",
+    "updatedAt": "2021-03-30T12:40:47.308Z"
+  },
+  {
+    "id": "27830e00-9155-11eb-b162-55a783b195b3",
+    "name": "%2e%2e%2f%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:48.608Z",
+    "updatedAt": "2021-03-30T12:40:48.608Z"
+  },
+  {
+    "id": "286ad5f0-9155-11eb-b162-55a783b195b3",
+    "name": "%2f%2e%2e%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:50.128Z",
+    "updatedAt": "2021-03-30T12:40:50.128Z"
+  },
+  {
+    "id": "298853e0-9155-11eb-b162-55a783b195b3",
+    "name": "%2F..%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:51.998Z",
+    "updatedAt": "2021-03-30T12:40:51.998Z"
+  },
+  {
+    "id": "2a844010-9155-11eb-b162-55a783b195b3",
+    "name": "%3f%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:53.649Z",
+    "updatedAt": "2021-03-30T12:40:53.649Z"
+  },
+  {
+    "id": "2b4c23f0-9155-11eb-b162-55a783b195b3",
+    "name": "%3f%0dCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:54.959Z",
+    "updatedAt": "2021-03-30T12:40:54.959Z"
+  },
+  {
+    "id": "2c544520-9155-11eb-b162-55a783b195b3",
+    "name": "%u000aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:56.690Z",
+    "updatedAt": "2021-03-30T12:40:56.690Z"
+  },
+  {
+    "id": "2d4cd5f0-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:40:58.320Z",
+    "updatedAt": "2021-03-30T12:40:58.320Z"
+  },
+  {
+    "id": "2e8f19f0-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:00.432Z",
+    "updatedAt": "2021-03-30T12:41:00.432Z"
+  },
+  {
+    "id": "2f6f19b0-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%0dCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:01.899Z",
+    "updatedAt": "2021-03-30T12:41:01.899Z"
+  },
+  {
+    "id": "305952a0-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%23%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:03.434Z",
+    "updatedAt": "2021-03-30T12:41:03.434Z"
+  },
+  {
+    "id": "312c3300-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%23%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:04.816Z",
+    "updatedAt": "2021-03-30T12:41:04.816Z"
+  },
+  {
+    "id": "32122630-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%23%0dCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:06.323Z",
+    "updatedAt": "2021-03-30T12:41:06.323Z"
+  },
+  {
+    "id": "3359c160-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%25%30%61CRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:08.470Z",
+    "updatedAt": "2021-03-30T12:41:08.470Z"
+  },
+  {
+    "id": "344cd3f0-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%25%30aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:10.064Z",
+    "updatedAt": "2021-03-30T12:41:10.064Z"
+  },
+  {
+    "id": "3527a390-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%250aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:11.497Z",
+    "updatedAt": "2021-03-30T12:41:11.497Z"
+  },
+  {
+    "id": "362dc8f0-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%25250aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:13.215Z",
+    "updatedAt": "2021-03-30T12:41:13.215Z"
+  },
+  {
+    "id": "36fab5e0-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%2e%2e%2f%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:14.559Z",
+    "updatedAt": "2021-03-30T12:41:14.559Z"
+  },
+  {
+    "id": "37bf3e60-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%2f%2e%2e%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:15.846Z",
+    "updatedAt": "2021-03-30T12:41:15.846Z"
+  },
+  {
+    "id": "38cb3020-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%2F..%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:17.602Z",
+    "updatedAt": "2021-03-30T12:41:17.602Z"
+  },
+  {
+    "id": "39a6ea20-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%3f%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:19.042Z",
+    "updatedAt": "2021-03-30T12:41:19.042Z"
+  },
+  {
+    "id": "3ac79c60-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%3f%0dCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:20.934Z",
+    "updatedAt": "2021-03-30T12:41:20.934Z"
+  },
+  {
+    "id": "3bd47880-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "%u000aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:22.696Z",
+    "updatedAt": "2021-03-30T12:41:22.696Z"
+  },
+  {
+    "id": "3ea76ea0-9155-11eb-b162-55a783b195b3",
+    "name": "permisiontest",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-30T12:41:27.434Z",
+    "updatedAt": "2021-03-30T12:41:27.434Z"
+  },
+  {
+    "id": "d9e23390-9219-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:08:49.226Z",
+    "updatedAt": "2021-03-31T12:08:49.226Z"
+  },
+  {
+    "id": "e80e6fb0-9219-11eb-92ea-9f0d489678ef",
+    "name": "<script>alert(1)</script>",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:09:13.003Z",
+    "updatedAt": "2021-03-31T12:09:13.003Z"
+  },
+  {
+    "id": "ea334b80-9219-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "<script>alert(1)</script>",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:09:16.600Z",
+    "updatedAt": "2021-03-31T12:09:16.600Z"
+  },
+  {
+    "id": "a59c48e0-921a-11eb-92ea-9f0d489678ef",
+    "name": "%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:14:31.022Z",
+    "updatedAt": "2021-03-31T12:14:31.022Z"
+  },
+  {
+    "id": "a7cd80c0-921a-11eb-92ea-9f0d489678ef",
+    "name": "%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:14:34.700Z",
+    "updatedAt": "2021-03-31T12:14:34.700Z"
+  },
+  {
+    "id": "aa0b3bc0-921a-11eb-92ea-9f0d489678ef",
+    "name": "%0dCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:14:38.460Z",
+    "updatedAt": "2021-03-31T12:14:38.460Z"
+  },
+  {
+    "id": "ac3d8510-921a-11eb-92ea-9f0d489678ef",
+    "name": "%23%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:14:42.145Z",
+    "updatedAt": "2021-03-31T12:14:42.145Z"
+  },
+  {
+    "id": "ae26b770-921a-11eb-92ea-9f0d489678ef",
+    "name": "%23%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:14:45.351Z",
+    "updatedAt": "2021-03-31T12:14:45.351Z"
+  },
+  {
+    "id": "af9d51e0-921a-11eb-92ea-9f0d489678ef",
+    "name": "%23%0dCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:14:47.806Z",
+    "updatedAt": "2021-03-31T12:14:47.806Z"
+  },
+  {
+    "id": "b05aae70-921a-11eb-92ea-9f0d489678ef",
+    "name": "%25%30%61CRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:14:49.047Z",
+    "updatedAt": "2021-03-31T12:14:49.047Z"
+  },
+  {
+    "id": "b138b260-921a-11eb-92ea-9f0d489678ef",
+    "name": "%25%30aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:14:50.502Z",
+    "updatedAt": "2021-03-31T12:14:50.502Z"
+  },
+  {
+    "id": "b2c322f0-921a-11eb-92ea-9f0d489678ef",
+    "name": "%250aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:14:53.087Z",
+    "updatedAt": "2021-03-31T12:14:53.087Z"
+  },
+  {
+    "id": "b3ecfcf0-921a-11eb-92ea-9f0d489678ef",
+    "name": "%25250aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:14:55.039Z",
+    "updatedAt": "2021-03-31T12:14:55.039Z"
+  },
+  {
+    "id": "b6b1c240-921a-11eb-92ea-9f0d489678ef",
+    "name": "%2e%2e%2f%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:14:59.684Z",
+    "updatedAt": "2021-03-31T12:14:59.684Z"
+  },
+  {
+    "id": "b9cce4f0-921a-11eb-92ea-9f0d489678ef",
+    "name": "%2f%2e%2e%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:04.896Z",
+    "updatedAt": "2021-03-31T12:15:04.896Z"
+  },
+  {
+    "id": "bba1f310-921a-11eb-92ea-9f0d489678ef",
+    "name": "%2F..%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:07.969Z",
+    "updatedAt": "2021-03-31T12:15:07.969Z"
+  },
+  {
+    "id": "be0f70a0-921a-11eb-92ea-9f0d489678ef",
+    "name": "%3f%0d%0aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:12.042Z",
+    "updatedAt": "2021-03-31T12:15:12.042Z"
+  },
+  {
+    "id": "c0656e90-921a-11eb-92ea-9f0d489678ef",
+    "name": "%3f%0dCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:15.961Z",
+    "updatedAt": "2021-03-31T12:15:15.961Z"
+  },
+  {
+    "id": "c1ebc070-921a-11eb-92ea-9f0d489678ef",
+    "name": "%u000aCRLF-Test: crlf=injection",
+    "discription": "randomchek",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:18.519Z",
+    "updatedAt": "2021-03-31T12:15:18.519Z"
+  },
+  {
+    "id": "c31ced70-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:20.519Z",
+    "updatedAt": "2021-03-31T12:15:20.519Z"
+  },
+  {
+    "id": "c502eb80-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:23.704Z",
+    "updatedAt": "2021-03-31T12:15:23.704Z"
+  },
+  {
+    "id": "c6ff7ed0-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%0dCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:27.037Z",
+    "updatedAt": "2021-03-31T12:15:27.037Z"
+  },
+  {
+    "id": "cab5f720-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%23%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:33.266Z",
+    "updatedAt": "2021-03-31T12:15:33.266Z"
+  },
+  {
+    "id": "cc7d49a0-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%23%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:36.250Z",
+    "updatedAt": "2021-03-31T12:15:36.250Z"
+  },
+  {
+    "id": "ce46bf00-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%23%0dCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:39.248Z",
+    "updatedAt": "2021-03-31T12:15:39.248Z"
+  },
+  {
+    "id": "d0775aa0-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%25%30%61CRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:42.922Z",
+    "updatedAt": "2021-03-31T12:15:42.922Z"
+  },
+  {
+    "id": "d2bf4ed0-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%25%30aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:46.749Z",
+    "updatedAt": "2021-03-31T12:15:46.749Z"
+  },
+  {
+    "id": "d4c44690-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%250aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:50.137Z",
+    "updatedAt": "2021-03-31T12:15:50.137Z"
+  },
+  {
+    "id": "d6ee5280-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%25250aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:53.768Z",
+    "updatedAt": "2021-03-31T12:15:53.768Z"
+  },
+  {
+    "id": "d926dd60-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%2e%2e%2f%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:15:57.494Z",
+    "updatedAt": "2021-03-31T12:15:57.494Z"
+  },
+  {
+    "id": "db52be10-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%2f%2e%2e%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:16:01.137Z",
+    "updatedAt": "2021-03-31T12:16:01.137Z"
+  },
+  {
+    "id": "dd170350-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%2F..%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:16:04.101Z",
+    "updatedAt": "2021-03-31T12:16:04.101Z"
+  },
+  {
+    "id": "de423ce0-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%3f%0d%0aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:16:06.062Z",
+    "updatedAt": "2021-03-31T12:16:06.062Z"
+  },
+  {
+    "id": "df5f45a0-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%3f%0dCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:16:07.930Z",
+    "updatedAt": "2021-03-31T12:16:07.930Z"
+  },
+  {
+    "id": "e0d9b0a0-921a-11eb-92ea-9f0d489678ef",
+    "name": "permisiontest",
+    "discription": "%u000aCRLF-Test: crlf=injection",
+    "logo_url": null,
+    "createdAt": "2021-03-31T12:16:10.410Z",
+    "updatedAt": "2021-03-31T12:16:10.410Z"
+  }
+]
